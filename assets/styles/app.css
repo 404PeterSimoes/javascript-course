@@ -37,13 +37,16 @@ header {
     border: 2px solid rgb(26, 26, 119);
     margin-bottom: 12px;
     font-family: Arial, sans-serif;
-    font-size: large;
+    font-size: 40px;
+    color: rgb(26, 26, 119);
+    text-align: center;
 }
 
 #calc-actions button {
-    background-color: rgb(26, 26, 119);
+    background-color: rgb(58, 58, 174);
     color: white;
     font-size: large;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+        sans-serif;
     padding: 10px 20px;
 }
